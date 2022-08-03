@@ -1,10 +1,16 @@
 # My favorite proguraming language and frammework 
 ## Frontend
-<picture>
-  <img alt="html" src="https://cdn.345tool.com/public/logos/html-formatter-logo.png" width="100px")
-</picture>
+- html
+- css
+- JavaScript
+- TypeScript
+- React
+- Flutter
 ## Backend
-
+- Java
+- TypeScript
+- Python
+- PHP
 # Contribution Graph
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkiGR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 # My Status
