@@ -5,7 +5,3 @@
 <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width="auto" height="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" width="auto" height="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="auto" height="100px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" width="auto" height="100px">
 # Contribution Graph
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkiGR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-# My Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkiGR&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=algolia&column=10)](https://github.com/ryo-ma/github-profile-trophy)
