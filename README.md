@@ -6,9 +6,15 @@
     <img height="20" src="https://img.shields.io/github/followers/AkiGR?label=follow&logo=github&style=flat" />
   </a><br>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkiGR&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3>My activity graph</h3>
 
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkiGR&theme=react-dark)
+ 
+<h3>My stats</h3>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkiGR&theme=react)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=react)
-  ![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=darkhub)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkiGR&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=react)
+  
+<h3>Get trophy</h3>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=darkhub)
