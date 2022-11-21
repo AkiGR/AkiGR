@@ -31,7 +31,7 @@
 
 <h3>My stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&theme=transparent&layout=compact)　![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=transparent&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&theme=transparent&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=transparent&layout=compact)
   
 <h3>Get trophy</h3>
 
