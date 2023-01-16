@@ -1,4 +1,14 @@
 # Hey there, I'm Aki!
+
+<h3>My stats</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKiGR&theme=github)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&theme=transparent&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=transparent&layout=compact)
+
+  
+<h3>Get trophy</h3>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=darkhub)
+
   <a href="https://twitter.com/aki96667887">
     <img height="20" src="https://img.shields.io/twitter/follow/aki96667887?label=Twitter&logo=twitter&style=flat" />
   </a>
@@ -28,12 +38,3 @@
 <h5>使用データベース</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-
-<h3>My stats</h3>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKiGR&theme=github)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&theme=transparent&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=transparent&layout=compact)
-
-  
-<h3>Get trophy</h3>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=darkhub)
