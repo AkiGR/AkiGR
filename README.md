@@ -11,16 +11,19 @@
   <a href="https://zenn.dev/aki_pro">
    <img src="https://badgen.org/img/zenn/aki_pro/likes?style=plastic" alt="Likes" />
   </a>
+  
+
 
 <h3>My stats</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKiGR&theme=github)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkiGR&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkiGR&theme=github)
-
+![](https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKiGR&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkiGR&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkiGR&theme=tokyonight)
   
 <h3>Get trophy</h3>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=darkhub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h3>My skill</h3>
 <h5>使用エディタ</h5>
