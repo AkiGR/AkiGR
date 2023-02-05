@@ -16,8 +16,6 @@
 
 <h3>My stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKiGR&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkiGR&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkiGR&theme=tokyonight)
   
