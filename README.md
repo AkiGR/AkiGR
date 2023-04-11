@@ -14,8 +14,8 @@
 <h3>My stats</h3>
 
 <p align=left>
-  <img alt="" height="200px" src="https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&theme=nord">
-  <img alt="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=nord&layout=compact">
+  <img alt="" height="180px" src="https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&theme=nord">
+  <img alt="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=nord&layout=compact">
 </p>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKiGR&theme=nord)
