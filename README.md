@@ -13,12 +13,18 @@
 
 <h3>My stats</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKiGR&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkiGR&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkiGR&theme=tokyonight)
+<p align=left>
+  <img alt="" height="200px" src="https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&theme=nord">
+  <img alt="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=nord&layout=compact">
+</p>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKiGR&theme=nord)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkiGR&theme=nord)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkiGR&theme=nord)
   
 <h3>Get trophy</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h3>My skill</h3>
 <h5>Editor</h5>
