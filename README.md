@@ -21,18 +21,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <h3>My skill</h3>
-<h5>使用エディタ</h5>
+<h5>Editor</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,vscode,androidstudio,eclipse)](https://skillicons.dev)
 
-<h5>使用言語</h5>
+<h5>Language</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,java,js,ts,php,py,swift,dart,html,css,sass)](https://skillicons.dev)
 
-<h5>使用フレームワーク</h5>
+<h5>Framework</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,spring,)](https://skillicons.dev)
 
-<h5>使用データベース</h5>
+<h5>database</h5>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
