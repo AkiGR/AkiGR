@@ -2,9 +2,6 @@
   <a href="https://github.com/AkiGR">
     <img height="20" src="https://img.shields.io/github/followers/AkiGR?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://atcoder.jp/users/Aki0712?contestType=algo">
-   <img src="https://badgen.org/img/atcoder/Aki0712/rating/algorithm?style=plastic" alt="Rating" />
-  </a>
   <a href="https://zenn.dev/aki_pro">
    <img src="https://badgen.org/img/zenn/aki_pro/likes?style=plastic" alt="Likes" />
   </a>
