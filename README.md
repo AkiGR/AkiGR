@@ -26,7 +26,7 @@
 <h3>My skill</h3>
 <h5>Editor</h5>
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,androidstudio,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,androidstudio)](https://skillicons.dev)
 
 <h5>Language</h5>
 
