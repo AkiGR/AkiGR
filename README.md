@@ -1,41 +1,110 @@
-# Hey there, I'm Aki!
+<!-- Top content -->
+<p align=left>
   <a href="https://github.com/AkiGR">
     <img height="20" src="https://img.shields.io/github/followers/AkiGR?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://zenn.dev/aki_pro">
-   <img src="https://badgen.org/img/zenn/aki_pro/likes?style=plastic" alt="Likes" />
+  <a href="https://atcoder.jp/users/Aki0712?contestType=algo">
+    <img src="https://badgen.org/img/atcoder/Aki0712/rating/algorithm?style=flat" alt="Rating" />
   </a>
-  
-
-
-<h3>My stats</h3>
-
-<p align=left>
-  <img alt="" height="180px" src="https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&theme=nord">
-  <img alt="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=nord&layout=compact">
+  <a href="https://zenn.dev/aki_pro">
+    <img src="https://badgen.org/img/zenn/aki_pro/likes?style=flat" alt="Likes" />
+  </a>
+  <a href="http://qiita.com/AkiGR">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/AkiGR/posts.svg" />
+  </a>
 </p>
+
+<!-- Greeting content -->
+# Hi! I'm Aki
+Thank you watching my README, I'm web enginner work in Japan.<br>
+Learning frontend and backend programming languages and lerning *English* at the same time.<br>
+Programming tips and books etc... I would be happy to exchange ideas and stories!
+<hr>
+
+<!-- Trophy/States -->
+<div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKiGR&theme=nord)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkiGR&theme=nord)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkiGR&theme=nord)
+# *Trophy* and *Stats*
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=AkiGR&theme=algolia&hide_border=true">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AkiGR&show_icons=true&hide_border=true&theme=react&include_all_commits=true&count_private=true">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiGR&theme=react&layout=compact&hide_border=true">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkiGR&theme=react">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=react&layout=compact&hide_border=true">
+</div>
+
+
+<!-- Skills -->
+<div align="center">
+
+# *Skils*
+
+</div>
+
+<div align="center">
   
-<h3>Get trophy</h3>
+### Programming Language
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AkiGR&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+<div align="center" style="display: flex;">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+</div>
+
+<div align="center">
+
+### Frontend
+
+</div>
+
+<div align="center" style="display: flex;">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img width="5%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+</div>
+
+<div align="center">
   
-<h3>My skill</h3>
-<h5>Editor</h5>
+### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,androidstudio)](https://skillicons.dev)
+</div>
 
-<h5>Language</h5>
+<div align="center" style="display: flex;">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,java,js,ts,php,py,swift,dart,html,css,sass)](https://skillicons.dev)
+<div align="center">
+  
+### Mobile
 
-<h5>Framework</h5>
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,spring,)](https://skillicons.dev)
+<div align="center" style="display: flex;">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
+  <img width="5%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
+  <img width="5%" src="https://reactnative.dev/img/header_logo.svg">
+</div>
 
-<h5>database</h5>
+<div align="center">
+  
+### Database
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+</div>
+
+<div align="center" style="display: flex;">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img width="5%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
+</div>
