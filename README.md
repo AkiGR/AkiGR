@@ -1,19 +1,3 @@
-<!-- Top content -->
-<p align=left>
-  <a href="https://github.com/AkiGR">
-    <img height="20" src="https://img.shields.io/github/followers/AkiGR?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://atcoder.jp/users/Aki0712?contestType=algo">
-    <img src="https://badgen.org/img/atcoder/Aki0712/rating/algorithm?style=flat" alt="Rating" />
-  </a>
-  <a href="https://zenn.dev/aki_pro">
-    <img src="https://badgen.org/img/zenn/aki_pro/likes?style=flat" alt="Likes" />
-  </a>
-  <a href="http://qiita.com/AkiGR">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/AkiGR/posts.svg" />
-  </a>
-</p>
-
 <!-- Greeting content -->
 # Hi! I'm Aki
 Thank you watching my README, I'm web enginner work in Japan.<br>
