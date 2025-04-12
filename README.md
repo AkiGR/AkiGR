@@ -4,7 +4,7 @@
 
 
 <div id="introduction">
-  I'm Aki and i am a web engineer in Japan.
+  I'm Aki and i am a web enginner!
 </div>
 
 ## T E C H S T A C K
@@ -16,18 +16,21 @@
 <div align="center">
 
 ### F R O N T E N D
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs)](https://skillicons.dev)
 
 ### B A C K E N D
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,deno,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,deno)](https://skillicons.dev)
 
 ### D A T A B A S E
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,mysql,sqlite)](https://skillicons.dev)
 
 ### T O O L S
-[![My Skills](https://skillicons.dev/icons?i=git,github,neovim,vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,neovim,vscode)](https://skillicons.dev)
+
+### E D I T O R
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode,visualstudio)](https://skillicons.dev)
 
 ### C L O U D & D E P L O Y M E N T
-[![My Skills](https://skillicons.dev/icons?i=azure,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,vercel)](https://skillicons.dev)
 
 </div>
