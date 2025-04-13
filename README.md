@@ -37,7 +37,7 @@
 
   <h3>T O O L S</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode" alt="tools" />
+        <img src="https://skillicons.dev/icons?i=git,github" alt="tools" />
       </a>
 
   <h3>E D I T O R</h3>
